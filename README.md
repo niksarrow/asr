@@ -9,7 +9,7 @@ ASR Notebook for NASSCOM Workshop on Speech To Speech Machine Translation
  	- Or `Download ZIP` under the `Code` tab.
  - Open Google Colab: https://colab.research.google.com/notebooks/intro.ipynb
  - Click on `File` --> `Upload Notebook`
- - Select the downloaded file and press Enter.
+ - Select the downloaded file `ASR.ipynb` and press Enter.
  - Once the notebook is ready:
 	 -  Click on `Runtime`
 	 -  Click on `Change Runtime Type`
