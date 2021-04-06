@@ -2,12 +2,17 @@
 # asr
 ASR Notebook for NASSCOM Workshop on Speech To Speech Machine Translation
 
-## Steps to open in google colab:
+## Steps to open in Google Colab:
 
  - Download ASR.ipynb to your local machine.
  - Open Google Colab: https://colab.research.google.com/notebooks/
- - Click on File --> Upload Notebook
+ - Click on `File` --> `Upload Notebook`
  - Select the downloaded file and press Enter.
-
+ - Once the notebook is ready:
+	 -  Click on `Runtime`
+	 -  Click on `Change Runtime Type`
+	 -  Select `Hardware accelerator` as `GPU`
+	 -  Click on `Save`
+ - Setup Complete !!
 
  
